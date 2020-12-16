@@ -3,6 +3,6 @@
 >
 >This code is the
 >
->Coworked with https://github.com/cocoastory(dlwlgkr159@gmail.com)
+>Coworked with https://github.com/cocoastory (email : dlwlgkr159@gmail.com)
 
 ## Introduction
