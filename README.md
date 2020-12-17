@@ -7,12 +7,12 @@
 
 ## Introduction
 
-**This code was utilized in aims at building a speech enhancement system to attenuate environmental noise.**
+**To detect real-time voice based on korean speech, this project was utilized in 2020 Artificial Intelligence (AI) Grand Challenge Speech Recognition(Track2) (http://www.ai-challenge.kr/sub0101).
 
+The main purpose of this competition is to design deep learning algorithms that detect five class of korean violence speech(threat, extortion, workplace harassment, out-of-work harassment, and nonviolence). 
+In our secenario, we used this project to improve the performance of Speech to Text (STT). 
 
-
-
-
+The project consists of three modes: `creating_data`, `training` and `prediction`.
 
 
 ## License
