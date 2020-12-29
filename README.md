@@ -16,6 +16,7 @@ The project consists of three modes: `creating_data`, `training` and `prediction
 
 ## 2. Download Dataset
 
+We used the LibriSpeech ASR corpus dataset(https://openslr.org/12/)
 
 ## 3. Run this project
 
