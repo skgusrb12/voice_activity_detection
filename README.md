@@ -1,7 +1,7 @@
 # voice_activity_detection
 >Hyeon Kyu Lee : skgusrb12@gmail.com
 >
->Coworker : https://github.com/cocoastory (email : dlwlgkr159@gmail.com)
+>Coworker : https://github.com/Jihackstory (email : dlwlgkr159@gmail.com)
 >
 >This project is Pytorch version of this project : [Voice Activity Detection based on Deep Learning & TensorFlow](https://github.com/filippogiruzzi/voice_activity_detection)
 
