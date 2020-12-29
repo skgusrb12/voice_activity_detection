@@ -5,7 +5,7 @@
 >
 >This project is Pytorch version of this project : [Voice Activity Detection based on Deep Learning & TensorFlow](https://github.com/filippogiruzzi/voice_activity_detection)
 
-## Introduction
+## 1. Introduction
 
 **To detect real-time voice based on korean speech, this project was utilized in 2020 Artificial Intelligence (AI) Grand Challenge Speech Recognition(Track2) (http://www.ai-challenge.kr/sub0101).**
 
@@ -13,6 +13,11 @@ The main purpose of this competition is to design deep learning algorithms that 
 In our secenario, we used this project to improve the performance of Speech to Text (STT). 
 
 The project consists of three modes: `creating_data`, `training` and `prediction`.
+
+## 2. Download Dataset
+
+
+## 3. Run this project
 
 
 ## License
