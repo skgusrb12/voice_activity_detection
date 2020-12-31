@@ -30,6 +30,7 @@ As mentioned above, this project is comprised of three modes : `creating_data`, 
 
 ```python
 python main.py --mode prediction
+# if you want to run training mode : --mode training
 ```
 
 ### 3.1 Creating_data 
