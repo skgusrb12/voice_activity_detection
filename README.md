@@ -20,9 +20,25 @@ We used the LibriSpeech ASR corpus dataset(https://openslr.org/12/) at sampling 
 
 The `test-clean` in website was used as training dataset in our project and the label can download [here](https://drive.google.com/drive/folders/1ZPQ6wnMhHeE7XP5dqpAEmBAryFzESlin) provided by the [reference project](https://github.com/filippogiruzzi/voice_activity_detection).
 
-In other words, in this project, the english voice dataset was used in the training step, and the test step is performed with korean voice dataset. 
+In other words, in this project, the english voice dataset was used in the training step, and the korean voice dataset was used in the test step. 
 
 ## 3. Run this project
+
+As mentioned above, this project is comprised of three modes : `creating_data`, `training` and `prediction`.
+
+**Run script (Command Line)**
+
+```python
+python main.py --mode prediction
+```
+
+### 3.1 Creating_data 
+
+
+### 3.2 Training 
+
+
+### 3.3 Prediction 
 
 
 ## License
