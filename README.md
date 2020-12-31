@@ -16,7 +16,11 @@ The project consists of three modes: `creating_data`, `training` and `prediction
 
 ## 2. Download Dataset
 
-We used the LibriSpeech ASR corpus dataset(https://openslr.org/12/)
+We used the LibriSpeech ASR corpus dataset(https://openslr.org/12/) at sampling rate 16kHz consist of approximately 1000 hours and English speech from audiobook.
+
+The `test-clean` in website was used as training dataset in our project and the label can download [here](https://drive.google.com/drive/folders/1ZPQ6wnMhHeE7XP5dqpAEmBAryFzESlin) provided [reference project](https://github.com/filippogiruzzi/voice_activity_detection).
+
+In other words, in this project, the training dataset is an english voice dataset, and the test dataset is performed with korean voice dataset. 
 
 ## 3. Run this project
 
