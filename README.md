@@ -1,4 +1,4 @@
-# voice_activity_detection
+# voice_activity_detection (VAD)
 >Hyeon Kyu Lee : skgusrb12@gmail.com
 >
 >Coworker : https://github.com/Jihackstory (email : dlwlgkr159@gmail.com)
@@ -35,6 +35,16 @@ python main.py --mode prediction
 
 ### 3.1 Creating_data 
 
+This mode is used to create input image data including the four features(MFCC, MFCC-△, MFCC-△2, RMSE of mel-spectogram) of VAD model.\
+
+**The parameter list of this mode**
+```python
+- raw_data : raw data (e.g. LibriSpeech ASR corpus dataset)
+- labels : labels of voice and non-voice
+- save_dir : the file for saving the input images
+- test_img_ratio : the ratio of test data from total input data
+- parallel : using the cpu parallel processing, 'True' and 'False'
+```
 
 ### 3.2 Training 
 
