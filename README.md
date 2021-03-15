@@ -47,10 +47,29 @@ This mode is used to create input image data including the four features(MFCC, M
 ```
 
 ### 3.2 Training 
-
+```
+- path : the path to input dataset
+- model_path : pretrained model directory
+- batch_size : batch size of training (?, 16, 65)
+- epochs : Nb of epochs for training
+- learning_rate : learning rate
+- n_cnn_filters : 32-64-128
+- n_cnn_kernels : 8-5-3
+- n_fc_units : 2048-2048
+- n_classes : Nb of classes
+- train_val_ratio : ratio dividing Nb of training dataset and Nb of validation dataset
+- baseline_val_loss : early stopping parameter to stop the training
+```
 
 ### 3.3 Prediction 
-
+```
+- test_data :
+- model_path :
+- smoothing :
+- visualize :
+- parallel :
+- fig_path :
+```
 
 ## License
 
