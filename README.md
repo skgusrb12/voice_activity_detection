@@ -37,7 +37,7 @@ python main.py --mode prediction
 
 This mode is used to create input image data including the four features(MFCC, MFCC-△, MFCC-△2, RMSE of mel-spectogram) of VAD model.\
 
-**The parameter list of this mode**
+**The parameter lists and defaults of this mode**
 ```
 - raw_data : raw data (e.g. LibriSpeech ASR corpus dataset)
 - labels : labels of voice and non-voice
