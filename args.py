@@ -31,5 +31,5 @@ parser.add_argument('--n-fc-units', type=str, default='2048-2048')
 parser.add_argument('--n-classes', '-n', type=int, default=2, help='the number of classes')
 
 # hyperparameters of creating the input images
-parser.add_argument('--smoothing', type=bool, default=True, help='using the cpu parallel processing')
-parser.add_argument('--visualize', type=bool, default=False, help='ratio dividing Nb of training dataset and Nb of test dataset')
+parser.add_argument('--smoothing', type=bool, default=True, help='apply smoothing feature')
+parser.add_argument('--visualize', type=bool, default=False, help='visualization')
