@@ -63,12 +63,12 @@ This mode is used to create input image data including the four features(MFCC, M
 
 ### 3.3 Prediction 
 ```
-- test_data :
-- model_path :
-- smoothing :
-- visualize :
-- parallel :
-- fig_path :
+- test_data : path where to find test speech data
+- model_path : pretrained mode directory
+- smoothing : apply smoothing feature
+- visualize : visualization 
+- parallel : using the cpu parallel processing
+- fig_path : 
 ```
 
 ## License
