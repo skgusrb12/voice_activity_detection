@@ -68,7 +68,7 @@ This mode is used to create input image data including the four features(MFCC, M
 - smoothing : apply smoothing feature
 - visualize : visualization 
 - parallel : using the cpu parallel processing
-- fig_path : 
+- fig_path : save the visualized figure
 ```
 
 ## License
